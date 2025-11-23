@@ -574,6 +574,21 @@ For complete API documentation, refer to the server code in `polaris-server-main
 
 ---
 
+## Mobile App and Web Appearance
+![1](https://github.com/user-attachments/assets/a89cc79d-beb4-43e8-91e8-3f51c567728b)
+![2](https://github.com/user-attachments/assets/98ee1795-a245-4588-af50-9d846f15d775)
+![3](https://github.com/user-attachments/assets/a70c85cf-5333-4efd-bc49-96c3d9256eaf)
+![4](https://github.com/user-attachments/assets/6d07ba2d-011e-47b7-8ad6-da7457462c2d)
+![5](https://github.com/user-attachments/assets/207d3383-b4f5-498f-bcac-c450d68ca6ce)
+![6](https://github.com/user-attachments/assets/f5614f9a-d392-46c0-87bb-171497e2c729)
+![7](https://github.com/user-attachments/assets/6613b10a-3742-4086-9a73-47618fadf844)
+![8](https://github.com/user-attachments/assets/ef0f0d58-c21d-445f-9687-04dfc20e5f84)
+![9](https://github.com/user-attachments/assets/b70f343a-ced2-4367-a3f2-63a255d36006)
+![10](https://github.com/user-attachments/assets/32da11ad-3b1a-4a42-9cca-651a963a5b26)
+![11](https://github.com/user-attachments/assets/e53a9e57-96f9-4773-9ba0-fd4a283245cc)
+![12](https://github.com/user-attachments/assets/ff9ea534-d14f-47db-bc54-2e17de7b1764)
+
+---
 ## Contributing
 
 We welcome contributions! Please follow these steps:
