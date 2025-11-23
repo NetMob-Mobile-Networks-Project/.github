@@ -14,7 +14,7 @@ Named after the North Star (Polaris), this system serves as a guiding tool for m
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [System Architecture](#system-architecture)
@@ -38,7 +38,7 @@ Named after the North Star (Polaris), this system serves as a guiding tool for m
 
 ---
 
-## 🎯 Overview
+## Overview
 
 Polaris is a complete mobile network monitoring and analysis platform designed to measure Quality of Experience (QoE) from end-user devices. The system consists of three main components working together to collect, store, analyze, and visualize network performance data.
 
@@ -52,7 +52,7 @@ Polaris is a complete mobile network monitoring and analysis platform designed t
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 ┌─────────────────┐         ┌─────────────────┐         ┌─────────────────┐
@@ -77,7 +77,7 @@ Polaris is a complete mobile network monitoring and analysis platform designed t
 
 ---
 
-## ✨ Features
+## Features
 
 ### 📱 Mobile Client Features
 
@@ -142,7 +142,7 @@ Polaris is a complete mobile network monitoring and analysis platform designed t
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Polaris Client
 - **Language**: Kotlin
@@ -175,7 +175,7 @@ Polaris is a complete mobile network monitoring and analysis platform designed t
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Mobile/
@@ -202,16 +202,13 @@ Mobile/
 │   │   ├── components/           # React components
 │   │   └── lib/                  # Utilities and services
 │   ├── docker-compose.yml        # Docker Compose configuration
-│   └── README.md                 # Web-specific documentation
-│
-├── Final Report.pdf              # Project documentation
-├── Final Manual.pdf              # User manual
+│   └── README.md                 # Web-specific documentation        
 └── README.md                     # This file
 ```
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -541,7 +538,7 @@ docker-compose up -d
 
 ---
 
-## 📊 API Documentation
+## API Documentation
 
 ### Authentication
 
@@ -577,7 +574,7 @@ For complete API documentation, refer to the server code in `polaris-server-main
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -609,11 +606,10 @@ For questions, issues, or contributions:
 
 - **Project Repository**: [GitHub Repository URL]
 - **Issues**: [GitHub Issues URL]
-- **Documentation**: See `Final Report.pdf` and `Final Manual.pdf` for detailed documentation
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Developed as part of the NetMob Mobile Networks Project
 - Special thanks to all contributors and maintainers
@@ -623,9 +619,8 @@ For questions, issues, or contributions:
 
 <div align="center">
 
-**Version 1.0** - Bahman 1403 (February 2025)
+**Version 1.0** - Mordad 1404 (August 2025)
 
-Made with ❤️ for mobile network monitoring
 
 </div>
 
